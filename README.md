@@ -1,4 +1,5 @@
-#BIG TRIP: UNKNOWN MEXICO
+# BIG TRIP: UNKNOWN MEXICO
+
 ![Branching](travelling5.jpg)
 
 On September 16th Mexico celebrates its national holiday - Independence Day. On this day, in 1810, a popular uprising began in the country, which turned into a war for independence from Spain. We explored the northern part of the country in search of thrills.
@@ -13,8 +14,8 @@ Appetizingly browned on the grill, the provoke pod smiled at me lying on a piece
 
 ![Branching](travelling3.jpg)
 
-"I take a deep breath and tell myself: calm down.
-...Ooh, Chihuahua!" A line from a once popular DJ Bobo song written for a Coca-Cola commercial in Spain suddenly made sense.
+*"I take a deep breath and tell myself: calm down.
+...Ooh, Chihuahua!" A line from a once popular DJ Bobo song written for a Coca-Cola commercial in Spain suddenly made sense.*
 
 ![Branching](travelling2.jpg)
 
@@ -22,7 +23,7 @@ What do our people know about the Mexican state of Chihuahua by default? "Are th
 
 ![Branching](travelling1.jpg)
 
-The motto on the state coat of arms is: "Courage, loyalty, hospitality.
+The motto on the state coat of arms is: "Courage, loyalty, hospitality."
 
 
 
